@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestLocalization</string>
+    <string name="hello">Hello Default</string>
+</resources>
